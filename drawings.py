@@ -3,7 +3,8 @@ from termcolor import colored, cprint
 
 def image(count):
     if count <= 0:
-        print("""+---+
+        print("""
+  +---+
   |   |
       |
       |
