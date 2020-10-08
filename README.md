@@ -1,6 +1,18 @@
-# hangman
+# Hangman
 Basic game of hangman to be enjoyed on the terminal
 
-Starting out with programming, I am starting with a few games as projects. This will be your run-of-the-mill game of hangman.
-I created an array of words and the game will pick a random one from the list. This way you can play on your own without knowing the answer.
-I added some my own ascii art to display to the terminal. Be kind (I'm no artist).
+# To Play
+
+##### For the App,
+
+1. Create a directory to clone the git repo into
+2. Clone git repo
+3. If not running python 3.8, run the following bash commands
+    1. `sudo apt update`
+    2. `sudo apt install python3.8`
+    3. `sudo apt-get install python3-pip`
+    4. `sudo apt install python3-termcolor`
+4. Run the app by using
+    `python main.py`
+
+## Enjoy!
